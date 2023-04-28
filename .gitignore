@@ -73,6 +73,8 @@ artifacts/
 *.suo
 *.vs
 *.ide
+*.ide-wal
+
 
 
 # Chutzpah Test files
