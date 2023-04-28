@@ -13,8 +13,7 @@
         ResizeMode="NoResize"
         FontFamily="Poppins">
 
-    <Border Background="{DynamicResource PrimaryBackgroundColor}"
-            CornerRadius="8">
+    <Border CornerRadius="8">
         
         
     </Border>
