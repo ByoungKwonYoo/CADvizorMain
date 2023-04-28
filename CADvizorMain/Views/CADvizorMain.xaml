@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CADvizorMain"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="444"
+        Title="MainWindow" Height="444" Width="444"
         AllowsTransparency="True" Background="Transparent"
         WindowStyle="None" ResizeMode="NoResize">
     <Grid>
