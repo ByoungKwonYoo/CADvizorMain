@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CADvizorMain.Views"
         mc:Ignorable="d"
-        Title="CADvizorPlatform" Height="450" Width="800">
-    <Grid>
+        Title="CADvizorPlatform" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True"
+        ResizeMode="NoResize"
+        FontFamily="Poppins">
+
+    <Border Background="{DynamicResource PrimaryBackgroundColor}"
+            CornerRadius="8">
         
-    </Grid>
+        
+    </Border>
+    
 </Window>

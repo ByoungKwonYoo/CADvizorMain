@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\cad1\Source\Repos\ByoungKwonYoo\CADvizorMain\CADvizorMain\App.xaml
-21408935209
+41591818327
 
-10598791064
+7473434121
 131569487696
-Views\CADvizorMain.xaml;Views\CADvizorPlatform.xaml;
+Styles\DarkTheme.xaml;Views\CADvizorMain.xaml;Views\CADvizorPlatform.xaml;Views\Pages\Dashboard.xaml;
 
-True
+False
 
