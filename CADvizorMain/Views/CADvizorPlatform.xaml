@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CADvizorMain.Views"
         mc:Ignorable="d"
-        Title="CADvizorPlatform" Height="450" Width="800"
+        Title="CADvizorPlatform" Height="450" Width="888"
         WindowStartupLocation="CenterScreen"
         WindowStyle="None"
         Background="Transparent"
