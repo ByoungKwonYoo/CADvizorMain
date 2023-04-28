@@ -17,3 +17,4 @@ C:\Users\cad1\Source\Repos\ByoungKwonYoo\CADvizorMain\CADvizorMain\obj\Debug\CAD
 C:\Users\cad1\Source\Repos\ByoungKwonYoo\CADvizorMain\CADvizorMain\obj\Debug\CADvizorMain.csproj.CoreCompileInputs.cache
 C:\Users\cad1\Source\Repos\ByoungKwonYoo\CADvizorMain\CADvizorMain\obj\Debug\CADvizorMain.exe
 C:\Users\cad1\Source\Repos\ByoungKwonYoo\CADvizorMain\CADvizorMain\obj\Debug\CADvizorMain.pdb
+C:\Users\cad1\Source\Repos\ByoungKwonYoo\CADvizorMain\CADvizorMain\obj\Debug\CADvizorMain.csprojAssemblyReference.cache
