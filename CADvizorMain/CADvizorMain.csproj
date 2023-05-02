@@ -143,11 +143,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\cadvizor.PNG" />
-    <Resource Include="Resources\cadvizor2.PNG" />
-    <Resource Include="Resources\cadvizor3.PNG" />
-    <Resource Include="Resources\CADVizor_1024.png" />
-    <Resource Include="Resources\favicon.png" />
+    <Resource Include="Images\cadvizor.PNG" />
+    <Resource Include="Images\cadvizor2.PNG" />
+    <Resource Include="Images\cadvizor3.PNG" />
+    <Resource Include="Images\CADVizor_1024.png" />
+    <Resource Include="Images\favicon.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Assets\Avatars\avatar-2.jpg" />
