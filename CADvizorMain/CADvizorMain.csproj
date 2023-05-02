@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -114,10 +115,22 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\cadvizor.PNG" />
-    <Resource Include="Images\cadvizor2.PNG" />
+    <Resource Include="Images\cadvizorWhite.PNG" />
     <Resource Include="Images\cadvizor3.PNG" />
     <Resource Include="Images\CADVizor_1024.png" />
     <Resource Include="Images\favicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cadvizormain.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
