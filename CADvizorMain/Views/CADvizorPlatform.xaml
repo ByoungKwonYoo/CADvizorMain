@@ -13,7 +13,7 @@
         ResizeMode="NoResize"
         FontFamily="Poppins">
 
-    <Border CornerRadius="8" Background="{DynamicResource PrimaryBackgroundColor}" PreviewMouseLeftButtonDown="border1_PreviewMouseLeftButtonDown">
+    <Border CornerRadius="8" Background="{DynamicResource PrimaryBackgroundColor}" >
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
@@ -76,7 +76,7 @@
             <!-- End: GridColum Left-->
 
             <!-- Start: GridColumn Rigth -->
-            <Grid Grid.Column="1">
+            <Grid Grid.Column="1" PreviewMouseLeftButtonDown="border1_PreviewMouseLeftButtonDown">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="60"/>
                     <RowDefinition/>
